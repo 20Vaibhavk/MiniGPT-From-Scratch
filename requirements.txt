@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+matplotlib
+gradio>=4.0
+notebook          # optional: for notebooks/MiniGPT_From_Scratch.ipynb

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+data/
+checkpoints/*
+!checkpoints/minigpt.pt
+!checkpoints/loss_curve.png
+!checkpoints/samples.txt
+.DS_Store
